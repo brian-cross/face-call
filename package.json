@@ -16,7 +16,7 @@
     "react-scripts": "^3.4.3",
     "socket.io-client": "^2.3.0",
     "styled-components": "^5.2.0",
-    "twilio": "^3.49.1",
+    "twilio": "^5.9.0",
     "uuid": "^8.3.0",
     "webrtc-adapter": "^7.7.0",
     "xstate": "^4.13.0"
